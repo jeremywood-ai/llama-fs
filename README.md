@@ -50,10 +50,12 @@ Before installing, ensure you have the following requirements:
 
 ### Installing
 
+> Note: `Git Bash` or `PowerShell` can be used.
+
 To install the project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/iyaja/llama-fs.git
+   git clone https://github.com/jeremywood-ai/llama-fs.git
    ```
 
 2. Navigate to the project directory:
