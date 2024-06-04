@@ -65,9 +65,9 @@ To install the project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-4. (Optional) Install moondream if you want to use the incognito mode
+4. (Optional) Install moondream if you want to use the incognito mode. Changed to use only `pip`
     ```bash
-    ollama pull moondream
+    pip install moondream
     ```
 ## Usage
 
